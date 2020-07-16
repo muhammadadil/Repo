@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "userRatings": [
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "userRatings": [
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "userRatings": [
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "userRatings": [
+      {
+        "username": "john.doe@fictitious.com",
+        "rating": 4,
+        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      }
+    ]
+  }
+]
